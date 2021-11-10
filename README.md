@@ -34,6 +34,7 @@ We have added [Prettier](https://prettier.io/) and integrated it with [ESLint](h
 Things we're looking for:
 
 - Matching the design as closely as possible
+- Idiomatic React usage
 - Clear naming
 - Well-considered component separation and interfaces
 - Simplicity
